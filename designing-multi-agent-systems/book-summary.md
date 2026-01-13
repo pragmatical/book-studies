@@ -1,7 +1,5 @@
 # Designing Multi-Agent Systems — Part Summaries
 
-This document provides concise, part-level summaries of the book **"Designing Multi-Agent Systems"** by Victor Dibia, organized around its four major parts: foundations, building from scratch, evaluation & responsible AI, and real-world applications.
-
 ---
 
 ## Part I — Foundations of Multi-Agent Systems
