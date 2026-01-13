@@ -1,4 +1,4 @@
-# book-studies
+# Book Studies for Small Groups
 
 This repository holds a collection of book studies designed to help small groups of 4-6 individuals work through books together. The goal is to foster learning and build connections among participants while exploring various topics.
 
@@ -13,9 +13,9 @@ Each book study includes materials and structure to facilitate meaningful group 
 
 ## Available Book Studies
 
-| Book Title | Author | Type | Directory |
-|------------|--------|------|-----------|
-| Designing Multi-Agent Systems | Victor Dibia | Technical | [designing-multi-agent-systems](./designing-multi-agent-systems) |
+| Book Title | Author | Description | Directory |
+|------------|--------|-------------|-----------|
+| Designing Multi-Agent Systems | Victor Dibia | Design, build, and evaluate LLM-based multi-agent systems. | [designing-multi-agent-systems](./designing-multi-agent-systems) |
 
 ## How to Use This Repository
 
