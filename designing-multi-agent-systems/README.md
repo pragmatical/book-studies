@@ -21,6 +21,17 @@ Use the same structure every week to minimize “context debt” and make facili
 - **10 min — Share-outs**: each group shares 1 insight + 1 open question.
 - **5 min — Close**: quick retro + assign light prep (optional).
 
+### Standing prompt (for the 10-minute primer)
+
+One person answers these quickly (aim for ~1 minute each) so everyone has the same starting context:
+
+1. **What is today’s topic in one sentence?**
+2. **Key terms**: 3 terms with 1-line definitions each.
+3. **One core idea** from the reading (a claim or mental model).
+4. **One concrete example** (real or hypothetical) where this shows up.
+5. **One “gotcha” / failure mode** to watch for.
+6. **Today’s outcome**: what artifact we will produce by the end.
+
 ---
 
 ## 12-week schedule (table)
