@@ -16,21 +16,10 @@ Book GitHub Repository: <https://github.com/victordibia/designing-multiagent-sys
 Use the same structure every week to minimize “context debt” and make facilitation easier.
 
 - **5 min — Arrival + agenda**: state today’s outcome (a shared artifact) and how decisions will be made.
-- **10 min — “Everyone can participate” primer**: one person gives a short recap using the standing prompt.
+- **10 min — “Everyone can participate” primer**: one person gives a short recap of the reading (rotate weekly).
 - **30 min — Small-group exercise** (3–5 people): produce a concrete artifact.
 - **10 min — Share-outs**: each group shares 1 insight + 1 open question.
 - **5 min — Close**: quick retro + assign light prep (optional).
-
-### Standing prompt (for the 10-minute primer)
-
-One person answers these quickly (aim for ~1 minute each) so everyone has the same starting context:
-
-1. **What is today’s topic in one sentence?**
-2. **Key terms**: 3 terms with 1-line definitions each.
-3. **One core idea** from the reading (a claim or mental model).
-4. **One concrete example** (real or hypothetical) where this shows up.
-5. **One “gotcha” / failure mode** to watch for.
-6. **Today’s outcome**: what artifact we will produce by the end.
 
 ---
 
