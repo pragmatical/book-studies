@@ -3,6 +3,8 @@
 
 Using **Victor Dibia’s _Designing Multi-Agent Systems_** as the primary material.
 
+Book summary: [summary](summary.md)
+
 Grab your copy: <https://buy.multiagentbook.com> (please check on expense guidelines with your manager)
 
 Book GitHub Repository: <https://github.com/victordibia/designing-multiagent-systems>
