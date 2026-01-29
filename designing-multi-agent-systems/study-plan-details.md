@@ -1,4 +1,30 @@
-# Table of Contents
+<!-- markdownlint-disable MD024 MD036 -->
+
+# Overview
+
+## Meeting schedule
+
+This study group runs in **two layers**:
+
+- **Large-group calls (4 total):**
+  - Intro / kickoff
+  - End of Month 1
+  - End of Month 2
+  - Final session
+- **Small groups (weekly):** timezone-based pods meet weekly to discuss the reading and run the session exercise.
+
+Reading is **expected**, but if someone hasn’t read they should still be able to participate—each pod starts with a quick recap.
+
+## Standard weekly session agenda (60 minutes)
+
+- **5 min — Arrival + agenda**: state today’s outcome and how decisions will be made.
+- **8 min — Primer / recap**: one person gives a short recap so everyone can participate.
+- **20 min — Baseline exercise**: small-group exercise to apply the concepts.
+- **8 min — Share-outs**: each group shares 1 insight + 1 open question.
+- **15 min — Optional demos**: 1–3 quick demos (tooling, traces, prototypes, or examples).
+- **4 min — Close**: quick retro + wrap-up.
+
+## Table of Contents
 
 - [Week 1 — Foundations I: Why Multi-Agent Systems?](#week-1--foundations-i-why-multi-agent-systems)
 - [Week 2 — Foundations II: Agent and MAS Architecture](#week-2--foundations-ii-agent-and-mas-architecture)
@@ -15,7 +41,7 @@
 
 ## Week 1 — Foundations I: Why Multi-Agent Systems?
 
-**Reading**: Preface (skim), Chapter 1: Sections 1.1–1.4
+**Reading**: Chapter 1: Sections 1.1–1.4 (Preface covered in kickoff)
 
 **Goals**
 
