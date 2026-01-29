@@ -8,7 +8,7 @@ A pattern-selection decision record for **two scenarios**, including risks and m
 
 Capture the decision record anywhere convenient (doc/whiteboard/notes) and share the link with the group.
 
-## Reading (optional)
+## Reading
 
 - Chapter 2: Sections 2.3–2.6
 

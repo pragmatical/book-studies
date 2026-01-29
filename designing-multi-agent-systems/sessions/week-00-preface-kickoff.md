@@ -10,7 +10,7 @@ Align on what we’re doing and how we’ll work together:
 - what “agents” and “multi-agent systems” mean in practice
 - what success looks like for participants
 
-## Reading (optional)
+## Reading
 
 - Preface
 

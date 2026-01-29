@@ -8,7 +8,7 @@ A UI-agent feasibility rubric applied to two tasks (API vs UI automation).
 
 Capture the rubric anywhere convenient (doc/whiteboard/notes) and share the link with the group.
 
-## Reading (optional)
+## Reading
 
 - Chapter 5
 

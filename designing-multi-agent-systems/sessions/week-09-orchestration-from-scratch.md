@@ -12,7 +12,7 @@ A workflow spec updated with:
 
 Capture the updated workflow spec anywhere convenient (doc/whiteboard/notes) and share the link with the group.
 
-## Reading (optional)
+## Reading
 
 - Chapter 6
 - Chapter 7: Sections 7.1–7.3

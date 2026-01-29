@@ -8,7 +8,7 @@ A usability review checklist for agentic UX + one improvement proposal.
 
 Capture the checklist anywhere convenient (doc/whiteboard/notes) and share the link with the group.
 
-## Reading (optional)
+## Reading
 
 - Chapter 3
 

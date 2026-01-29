@@ -9,7 +9,7 @@
 
 Capture the boundary + protocol sketch anywhere convenient (doc/whiteboard/notes) and share the link with the group.
 
-## Reading (optional)
+## Reading
 
 - Chapter 12
 

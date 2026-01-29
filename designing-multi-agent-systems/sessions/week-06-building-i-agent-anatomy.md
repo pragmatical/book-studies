@@ -8,7 +8,7 @@ An implementation-agnostic agent execution loop + a set of tool cards.
 
 Capture the loop + tool cards anywhere convenient (doc/whiteboard/notes) and share the link with the group.
 
-## Reading (optional)
+## Reading
 
 - Chapter 4: Sections 4.1–4.7
 

@@ -8,7 +8,7 @@ Create a shared list of tasks mapped to **model → single agent → multi-agent
 
 Capture the task map anywhere convenient (doc/whiteboard/notes) and share the link with the group.
 
-## Reading (optional)
+## Reading
 
 - Chapter 1: Sections 1.1–1.4
 

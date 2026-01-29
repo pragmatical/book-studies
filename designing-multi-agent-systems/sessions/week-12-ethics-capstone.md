@@ -15,7 +15,7 @@ One-page capstone “poster” design:
 
 Capture the capstone poster anywhere convenient (doc/slides/whiteboard) and share the link with the group.
 
-## Reading (optional)
+## Reading
 
 - Chapter 13
 - (Chapter 14 or 15)

@@ -8,7 +8,7 @@ A “minimum viable controls” checklist (safety + observability) and one polic
 
 Capture the checklist + policy anywhere convenient (doc/whiteboard/notes) and share the link with the group.
 
-## Reading (optional)
+## Reading
 
 - Chapter 4: Sections 4.8–4.13
 

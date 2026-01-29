@@ -8,7 +8,7 @@ A 5-task evaluation suite + scoring rubric.
 
 Capture the evaluation suite anywhere convenient (doc/whiteboard/notes) and share the link with the group.
 
-## Reading (optional)
+## Reading
 
 - Chapter 10
 - Chapter 11: Sections 11.2–11.3

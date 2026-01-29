@@ -9,7 +9,7 @@
 
 Capture the diagram and orchestration sketch anywhere convenient (doc/whiteboard/notes) and share the link with the group.
 
-## Reading (optional)
+## Reading
 
 - Chapter 1: Sections 1.4–1.9
 

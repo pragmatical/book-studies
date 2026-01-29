@@ -13,7 +13,7 @@ One clear, testable workflow specification:
 
 Capture the workflow spec anywhere convenient (doc/whiteboard/notes) and share the link with the group.
 
-## Reading (optional)
+## Reading
 
 - Chapter 2: Sections 2.1–2.2
 
