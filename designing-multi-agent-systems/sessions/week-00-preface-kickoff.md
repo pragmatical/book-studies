@@ -30,20 +30,7 @@ Each person shares (30–45s):
 - their “agree” sentence
 - their “challenge” sentence
 
-Scribe captures:
-
-- common themes
-- disagreements worth revisiting
-
-### 3) Decide “how we’ll run” (2 min)
-
-As a group, pick defaults:
-
-- reading is optional vs expected
-- how we capture notes (any shared doc is fine)
-- how we resolve disagreements (timebox + decision + revisit)
-
-## Stretch (optional, 5 min): Personal goal + boundary
+## 3) Personal goal + boundary
 
 Each person writes (and optionally shares):
 
